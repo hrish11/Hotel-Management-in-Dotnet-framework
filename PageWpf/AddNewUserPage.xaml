@@ -1,0 +1,64 @@
+﻿<Page x:Class="PageWpf.AddNewUserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PageWpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddNewUserPage" Background="LightBlue">
+
+    <StackPanel Background="LightBlue" HorizontalAlignment="Center" Orientation="Horizontal" Width="Auto">
+
+        <Grid Name="gridUser" Background="LightBlue" Width="720">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="User ID"></TextBlock>
+            <TextBox Grid.Row="0" Grid.Column="1" Name="txtUserID" Text="{Binding UserID}"></TextBox>
+            <Button Grid.Row="0" Grid.Column="2" Name="btnBack" Content="Back" Width="80" Height="50" Click="BtnBack_Click"></Button>
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="Password"></TextBlock>
+            <PasswordBox Grid.Row="1" Grid.Column="1" Name="passbxUserPassword" PasswordChar="{Binding UserPassword}"></PasswordBox>
+
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="User Role"></TextBlock>
+            <ComboBox Grid.Row="2" Grid.Column="1" Name="CmboUserRole" Text="{Binding UserRole}">
+                <ComboBoxItem>User</ComboBoxItem>
+                <ComboBoxItem>Employee</ComboBoxItem>
+
+            </ComboBox>
+            <!--<TextBox Grid.Row="2" Grid.Column="1" Name="txtUserRole" Text="{Binding UserRole}"></TextBox>-->
+            <TextBlock Grid.Row="3" Grid.Column="0" Text="Name"></TextBlock>
+            <TextBox Grid.Row="3" Grid.Column="1" Name="txtUserName" Text="{Binding UserName}"></TextBox>
+            <TextBlock Grid.Row="4" Grid.Column="0" Text="Mobile No"></TextBlock>
+            <TextBox Grid.Row="4" Grid.Column="1" Name="txtUserMobileNo" Text="{Binding UserMobileNo}"></TextBox>
+            <TextBlock Grid.Row="5" Grid.Column="0" Text="Phone No"></TextBlock>
+            <TextBox Grid.Row="5" Grid.Column="1" Name="txtUserPhoneNo" Text="{Binding UserPhoneNo}"></TextBox>
+            <TextBlock Grid.Row="6" Grid.Column="0" Text="Address"></TextBlock>
+            <TextBox Grid.Row="6" Grid.Column="1" Name="txtUserAddress" Text="{Binding UserAddress}"></TextBox>
+            <TextBlock Grid.Row="7" Grid.Column="0" Text="Email Id"></TextBlock>
+            <TextBox Grid.Row="7" Grid.Column="1" Name="txtUserEmail" Text="{Binding UserEmail}"></TextBox>
+            <Button Grid.Row="8" Grid.Column="1" x:Name="btnAddUser" Content="AddUser" Click="btnAddUserWin_Click_1"/>
+            <Button Grid.Row="8" Grid.Column="2" x:Name="btnUserClear" Content="Clear" Click="btnClearUserWin_Click_1"/>
+        </Grid>
+
+        <!--<WrapPanel>-->
+        <!--<TextBlock Margin="0,0,171,0">Customer ID to Search</TextBlock>
+        <TextBox x:Name="txtCustID" Margin="121,0,56,0" Height="24"/>-->
+
+        <!--</WrapPanel>-->
+    </StackPanel>
+</Page>

@@ -1,0 +1,11 @@
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\bin\Debug\HBSEntityLayer.dll
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\bin\Debug\HBSEntityLayer.pdb
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.dll
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.pdb
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.csprojAssemblyReference.cache
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\bin\Debug\HBSEntityLayer.dll
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\bin\Debug\HBSEntityLayer.pdb
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.dll
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSEntityLayer\obj\Debug\HBSEntityLayer.pdb

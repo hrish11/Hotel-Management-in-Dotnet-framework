@@ -1,0 +1,16 @@
+﻿<Window x:Class="HBSWPFPLayer.MainUserWindowAccess"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HBSWPFPLayer"
+        mc:Ignorable="d"
+        Title="MainUserWindowAccess" Height="450" Width="800">
+    <StackPanel>
+        <Button Name="btnAddUser" Content="Add User" FontSize="22" Click="btnAddUser_Click_1" Margin="10"></Button>
+        <Button Name="btnUpdateUser" Content="Update User" FontSize="22" Click="btnUpdateUser_Click_1" Margin="10"></Button>
+        <Button Name="btnDeleteUser" Content="Delete User" FontSize="22" Click="btnDeleteUser_Click_1" Margin="10"></Button>
+        <Button Name="btnSearchUser" Content="Search User" FontSize="22" Click="btnSearchUser_Click_1" Margin="10"></Button>
+        <Button Name="btnDisplay" Content="Display User" FontSize="22" Click="btnDisplay_Click_1" Margin="10"></Button>
+    </StackPanel>
+</Window>

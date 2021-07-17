@@ -1,0 +1,11 @@
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\bin\Debug\HBSExceptionLayer.dll
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\bin\Debug\HBSExceptionLayer.pdb
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.csproj.CoreCompileInputs.cache
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.dll
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.pdb
+C:\Users\hrish\Desktop\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.csprojAssemblyReference.cache
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\bin\Debug\HBSExceptionLayer.dll
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\bin\Debug\HBSExceptionLayer.pdb
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.csprojResolveAssemblyReference.cache
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.dll
+C:\Users\hrish\Desktop\Capgemini Project\Working\My Hotel Project Progress\Project HBS\HotelBookingSystemProject\HBSExceptionLayer\obj\Debug\HBSExceptionLayer.pdb
